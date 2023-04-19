@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I'm an active senior at Purdue University, studying Computer Science, Data Science, and Applied Statistics, with a concentration in Machine Intelligence.
+
+
 
 <!--
 **NicholasDullam/NicholasDullam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
