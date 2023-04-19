@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there, I'm Nich 👋 </h2>
-I'm an active senior at Purdue University graduating in May 2023, studying Computer Science, Data Science, and Applied Statistics, specializing in Machine Intelligence. I work as the Development Lead for wellness-centered startup, @STNBLY, 
+<p align="center"> I'm an active senior at Purdue University graduating in May 2023, studying Computer Science, Data Science, and Applied Statistics, specializing in Machine Intelligence. I work as the Development Lead for wellness-centered startup, @STNBLY, </p>
 <h4 align="center"> ... </h4> 💬 
-A few repositories of mine are privatized, but I'm always happy to share upon request!
+<p align="center"> A few repositories of mine are privatized, but I'm always happy to share upon request! </p>
 
 
 
