@@ -1,4 +1,4 @@
-<h4 align="center"> Hi there, I'm Nich 👋 </h4>
+<h2 align="center"> Hi there, I'm Nich 👋 </h2>
 - 🌱 I'm an active senior at Purdue University, studying Computer Science, Data Science, and Applied Statistics, with a concentration in Machine Intelligence.
 - 
 - 💬 A few repositories of mine are privatized, but I'm always happy to share upon request!
