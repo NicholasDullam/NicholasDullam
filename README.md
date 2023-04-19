@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there, I'm Nich 👋 </h2>
-<p align="center"> I'm an active senior at Purdue University graduating in May 2023, studying Computer Science, Data Science, and Applied Statistics, specializing in Machine Intelligence. Over the past 3 years I've worked as the Development Lead for wellness-centered startup, @STNBLY. I'm always looking develop software where I can innovate with data-driven design and a pivotal focus on the user. </p>
+<p align="center"> I'm an active senior at Purdue University graduating in May 2023, studying Computer Science, Data Science, and Applied Statistics, specializing in Machine Intelligence. Currently, I work as the Development Lead for wellness-centered startup, @STNBLY. I'm always looking develop software where I can innovate with data-driven design and a pivotal focus on the user. </p>
 <h4 align="center"> ... </h4>
 <p align="center"> A few repositories of mine are privatized, but I'm always happy to share upon request :) </p>
 
