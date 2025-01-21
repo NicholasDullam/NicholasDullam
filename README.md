@@ -1,9 +1,5 @@
 <h2 align="center"> Hi there, I'm Nich 👋 </h2>
-<p align="center"> Actively working as a senior software engineer for real-estate-centered startup, Testimonial Tree, spending a lot of my time in full-stack. I'm always looking to develop software where I can innovate with data-driven design and a pivotal focus on the user. </p>
-<h4 align="center"> ... </h4>
-<p align="center"> A few repositories of mine are private, but I'm always happy to share upon request :) </p>
-
-
+<p align="center"> I’m a senior software engineer who builds fast, impactful solutions using data to drive decisions. </p>
 
 <!--
 **NicholasDullam/NicholasDullam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
