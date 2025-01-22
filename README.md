@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there, I'm Nich 👋 </h2>
-<p align="center"> I’m a senior software engineer who builds fast, impactful solutions using data to drive decisions. </p>
+<p align="center"> I'm a senior software engineer who builds fast, impactful solutions, leveraging data to drive decisions. </p>
 
 <!--
 **NicholasDullam/NicholasDullam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
